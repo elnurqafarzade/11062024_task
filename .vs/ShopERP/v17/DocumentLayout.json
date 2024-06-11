@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04352614-9282-4A7B-93AF-A360CD75AD19}|ShopERP.Business\\ShopERP.Business.csproj|c:\\users\\fa507xv\\source\\repos\\shoperp\\shoperp.business\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04352614-9282-4A7B-93AF-A360CD75AD19}|ShopERP.Business\\ShopERP.Business.csproj|solutionrelative:shoperp.business\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB2A641-FB64-4B9C-9653-E0D55B282CC4}|ShopERP.CA\\ShopERP.CA.csproj|c:\\users\\fa507xv\\source\\repos\\shoperp\\shoperp.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB2A641-FB64-4B9C-9653-E0D55B282CC4}|ShopERP.CA\\ShopERP.CA.csproj|solutionrelative:shoperp.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04352614-9282-4A7B-93AF-A360CD75AD19}|ShopERP.Business\\ShopERP.Business.csproj|c:\\users\\fa507xv\\source\\repos\\shoperp\\shoperp.business\\dtos\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04352614-9282-4A7B-93AF-A360CD75AD19}|ShopERP.Business\\ShopERP.Business.csproj|solutionrelative:shoperp.business\\dtos\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181940B-C70E-44BC-8BD1-CAB8D060FA33}|ShopERP.Core\\ShopERP.Core.csproj|c:\\users\\fa507xv\\source\\repos\\shoperp\\shoperp.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C181940B-C70E-44BC-8BD1-CAB8D060FA33}|ShopERP.Core\\ShopERP.Core.csproj|solutionrelative:shoperp.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3EAD5E-B878-4145-A497-06F2D7A266FD}|ShopERP.Data\\ShopERP.Data.csproj|c:\\users\\fa507xv\\source\\repos\\shoperp\\shoperp.data\\dal\\shoperpdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3EAD5E-B878-4145-A497-06F2D7A266FD}|ShopERP.Data\\ShopERP.Data.csproj|solutionrelative:shoperp.data\\dal\\shoperpdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04352614-9282-4A7B-93AF-A360CD75AD19}|ShopERP.Business\\ShopERP.Business.csproj|c:\\users\\fa507xv\\source\\repos\\shoperp\\shoperp.business\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04352614-9282-4A7B-93AF-A360CD75AD19}|ShopERP.Business\\ShopERP.Business.csproj|solutionrelative:shoperp.business\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04352614-9282-4A7B-93AF-A360CD75AD19}|ShopERP.Business\\ShopERP.Business.csproj|c:\\users\\fa507xv\\source\\repos\\shoperp\\shoperp.business\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04352614-9282-4A7B-93AF-A360CD75AD19}|ShopERP.Business\\ShopERP.Business.csproj|solutionrelative:shoperp.business\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C181940B-C70E-44BC-8BD1-CAB8D060FA33}|ShopERP.Core\\ShopERP.Core.csproj|c:\\users\\fa507xv\\source\\repos\\shoperp\\shoperp.core\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C181940B-C70E-44BC-8BD1-CAB8D060FA33}|ShopERP.Core\\ShopERP.Core.csproj|solutionrelative:shoperp.core\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.Core\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "ShopERP.Core\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.Core\\Models\\BaseModel.cs",
+              "RelativeToolTip": "ShopERP.Core\\Models\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:10:06.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopERPDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.Data\\DAL\\ShopERPDatabase.cs",
+              "RelativeDocumentMoniker": "ShopERP.Data\\DAL\\ShopERPDatabase.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.Data\\DAL\\ShopERPDatabase.cs",
+              "RelativeToolTip": "ShopERP.Data\\DAL\\ShopERPDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:11:33.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShopERP.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.Core\\Models\\Product.cs",
+              "RelativeToolTip": "ShopERP.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:08:44.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.Business\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "ShopERP.Business\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.Business\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "ShopERP.Business\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:07:39.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.Business\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ShopERP.Business\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.Business\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ShopERP.Business\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:08:01.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.Business\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "ShopERP.Business\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.Business\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "ShopERP.Business\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:05:40.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.Business\\DTOs\\ProductGetDto.cs",
+              "RelativeDocumentMoniker": "ShopERP.Business\\DTOs\\ProductGetDto.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.Business\\DTOs\\ProductGetDto.cs",
+              "RelativeToolTip": "ShopERP.Business\\DTOs\\ProductGetDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T04:48:07.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.CA\\Program.cs",
+              "RelativeDocumentMoniker": "ShopERP.CA\\Program.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\ShopERP\\ShopERP.CA\\Program.cs",
+              "RelativeToolTip": "ShopERP.CA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T03:17:47.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

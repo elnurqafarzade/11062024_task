@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShopERP.CA/1.0.0": {
+        "dependencies": {
+          "ShopERP.Business": "1.0.0"
+        },
+        "runtime": {
+          "ShopERP.CA.dll": {}
+        }
+      },
+      "ShopERP.Business/1.0.0": {
+        "dependencies": {
+          "ShopERP.Data": "1.0.0"
+        },
+        "runtime": {
+          "ShopERP.Business.dll": {}
+        }
+      },
+      "ShopERP.Core/1.0.0": {
+        "runtime": {
+          "ShopERP.Core.dll": {}
+        }
+      },
+      "ShopERP.Data/1.0.0": {
+        "dependencies": {
+          "ShopERP.Core": "1.0.0"
+        },
+        "runtime": {
+          "ShopERP.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopERP.CA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopERP.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopERP.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopERP.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
